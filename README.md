@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+I am an engineer that loves exploring the endless possibilities in life. This profile is the basis for many new ideas and porjects that I am excited to work on.
+
+
+
+
 
 <!--
 **CodeAfro-hog/CodeAfro-hog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
